@@ -24,6 +24,9 @@
   ],
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "license": "MIT",
+  "peerDependencies": {
+    "cypress": "~9.0"
+  },
   "devDependencies": {
     "@types/node": "14.14.22",
     "cypress": "9.7.0",
